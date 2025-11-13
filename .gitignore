@@ -1,0 +1,23 @@
+# 操作系统和 IDE
+.idea/
+.DS_Store
+
+# Python 缓存和环境
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# 数据集 (!!!)
+data/
+datasets_catdog/
+processed_samples/
+
+# 模型权重 (!!!)
+*.pt
+*.pth
+
+# 结果
+*.csv
+*.xls
+*.xlsx
